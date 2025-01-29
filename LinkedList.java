@@ -55,7 +55,7 @@ public static void main(String[] args) {
             {
             data1=sc.nextInt();
             list.insertMiddle(data1,pos);
-            System.out.println("LINKED LIST AFTER INSERTNG");
+            System.out.println("Element INSERTEDLINKED LIST AFTER INSERTING");
             list.displayList();
             }
             else
